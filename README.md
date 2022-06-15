@@ -1,6 +1,6 @@
 # MODULE 5: PyBer with Matplotlib
 
-To analyze data, combine data sets, execute computations, and build data series and data frames in this module, I'll use a Jupyter notebook and Pandas. The two-dimensional graphing package for Python, Matplotlib, will also be covered. I'll use Matplotlib to create publication-quality figures of various data series so that I can use the data to create a visual narrative.
+To analyze data, combine data sets, execute computations, and build data series and data frames in this module, I'll use a Jupyter Notebooks and Pandas. The two-dimensional graphing package for Python, Matplotlib, will also be covered. I'll use Matplotlib to create publication-quality figures of various data series so that I can use the data to create a visual narrative.
 
 Presenting complicated findings in a way that is educational and interesting to all stakeholders is accomplished by constructing a visual story from the data. Data visualizations make it easier for my audience to understand information and spot patterns, trends, correlations, and outliers that are typically hard to display in a table with hundreds of entries. Sharing visualizations with various teams can aid in project planning and serve as a catalyst for commercial choices.
 
